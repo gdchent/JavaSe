@@ -27,4 +27,6 @@ public class PlaceSetting extends Custom {
     public static void  main(String ...args){
         PlaceSetting placeSetting=new PlaceSetting(9);
     }
+
+
 }
