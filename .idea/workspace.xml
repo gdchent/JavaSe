@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eef7303b-dbfd-4a6d-8555-78d92417dac4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo13/InfiniteRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo14/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo14/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo14/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo14/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo14/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo14/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo14/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo14/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/Automobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/Holder1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/Holder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/Holder3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/ThreeTuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/TwoTuple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Hide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Hide.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceDemo7/Hide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceDemo7/Hide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceDemo15/GenericMethod.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,14 +38,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practiceDemo15/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="403">
+              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
               <folding>
                 <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#193#194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/practiceDemo15/GenericMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,8 +79,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -118,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/extendsDemo/Student.java" />
         <option value="$PROJECT_DIR$/src/rxjava/MyString.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/rxjava/List.java" />
@@ -169,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/practiceDemo15/LinkedStack.java" />
         <option value="$PROJECT_DIR$/src/practiceDemo15/Generator.java" />
         <option value="$PROJECT_DIR$/src/practiceDemo15/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/practiceDemo15/GenericMethod.java" />
       </list>
     </option>
   </component>
@@ -251,7 +244,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550645592738" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550646135060" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -270,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.GenericMethod">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceDemo15.Fibonacci" />
       <module name="javaSe" />
@@ -284,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfiniteRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceDemo13.InfiniteRecursion" />
+    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceDemo15.GenericMethod" />
       <module name="javaSe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceDemo13.*" />
+          <option name="PATTERN" value="practiceDemo15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,11 +344,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericMethod" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.LinkedStack" />
         <item itemvalue="Application.TwoTuple" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.InfiniteRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -393,12 +386,12 @@
       <workItem from="1550200540028" duration="4066000" />
       <workItem from="1550454847777" duration="21267000" />
       <workItem from="1550541923371" duration="6813000" />
-      <workItem from="1550625574037" duration="11011000" />
+      <workItem from="1550625574037" duration="11552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175177000" />
+    <option name="totallyTimeSpent" value="175718000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,7 +406,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23614073" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23614073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -422,7 +415,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3488624" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.19197397" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.12472885" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.47613883" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,7 +424,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.42299348" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.19197397" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.12472885" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.3340564" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -448,13 +441,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo7/Fork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/practiceDemo7/Custom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -920,11 +906,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practiceDemo15/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="403">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
           <folding>
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practiceDemo15/GenericMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
           </folding>
         </state>
       </provider>
