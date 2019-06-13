@@ -48,16 +48,20 @@ public class LinkedStack<T> {
     }
 
     public static void main(String... args) {
-        LinkedStack<String> linkedStack = new LinkedStack<>();
-        for (String s : "Phasers on stun!".split(" ")) {
-            System.out.println("item:" + s);
-            linkedStack.push(s);
 
-        }
-        System.out.println("===============================================");
-        String s = null;
-        while ((s = linkedStack.pop()) != null) {
-            System.out.println(s);
-        }
+       // String a="abc" ;
+        //String.valueOf("abc");
+//        LinkedStack<String> linkedStack = new LinkedStack<>();
+//        for (String s : "Phasers on stun!".split(" ")) {
+//            System.out.println("item:" + s);
+//            linkedStack.push(s);
+//
+//        }
+//        System.out.println("===============================================");
+//        String s = null;
+//        while ((s = linkedStack.pop()) != null) {
+//            System.out.println(s);
+//        }
+
     }
 }

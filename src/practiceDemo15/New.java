@@ -18,10 +18,23 @@ public class New {
         return new ArrayList<T>();
     }
 
+
+    public static void f(Map<String,List<String>> listMap){
+
+    }
+
     public static void  main(String ...args){
          Map<String,List<String>> stringListMap=New.map();
 
          Map<String ,List<? extends Object>> listMap=New.map();
          List<String> stringList=New.list();
+         f(New.map());
+
+         Class integers=new ArrayList<>().getClass();
+         Class arrayList=new ArrayList<>().getClass();
+         New mNew=new New();
+         mNew.getClass();
+         System.out.println(integers.toString());
+         System.out.println(integers==arrayList);  //因为都是调用了object的方法 所以是true
     }
 }

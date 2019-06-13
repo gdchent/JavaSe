@@ -3,7 +3,7 @@ package practiceDemo15;
 /**
  * 接口
  */
-public interface Generator<Integer> {
+public interface Generator<T> {
 
-    Integer next();
+    T next();
 }

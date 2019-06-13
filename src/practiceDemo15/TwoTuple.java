@@ -1,8 +1,10 @@
 package practiceDemo15;
 
-public class TwoTuple<A,B> {
+public class TwoTuple<A,B> extends Object{
     public  A first;
     public  B second;
+
+    //public TwoTuple(){}
     public TwoTuple(A a,B b){
         this.first=a;
         this.second=b;

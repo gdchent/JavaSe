@@ -10,10 +10,11 @@ import java.util.LinkedList;
  * 第一步：new ArrayList创建了一个空数组
  * 第二步：第一次添加元素 扩展容量为10  之后的扩展算法;原来数组大小+原来数组的一半
  * 特点：不适合进行删除或者插入操作  线程不安全  适合在单线程访问使用
+ *
  */
 public class Test {
 
-
+    
     public static void main(String ...args){
         Order order=new Order();
 
@@ -62,11 +63,12 @@ public class Test {
         String afterStrArray[]=Arrays.copyOf(strArray,10);
         System.out.println(afterStrArray.length);
         arrayList.get(10);
-        LinkedList<String> linkedList=new LinkedList<>();
-        linkedList.get(10);
+
 
 
         Set<String> set=new HashSet<>();
         Map<String,String> stringStringMap=new HashMap<>();
+        System.out.println("=========================");
+
     }
 }
