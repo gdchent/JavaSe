@@ -6,10 +6,11 @@ package practiceDemo14;
  */
 public class SweetShop {
     public static void main(String ...args){
-        System.out.println("string:"+args);
+        System.out.println("args:"+args);
         new Candy();
         System.out.println("After creating Candy");
         try {
+            Class.forName("practiceDemo14.Gum");
             Class.forName("practiceDemo14.Gum");
         }catch (ClassNotFoundException e){
             System.out.println("Could not find Gum==="+e.getMessage());

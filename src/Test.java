@@ -1,10 +1,7 @@
 import extendsDemo.Bird;
 import extendsDemo.Penguin;
-import extendsDemo.Shape;
 import extendsDemo.Student;
 
-import java.math.BigDecimal;
-import java.math.BigInteger;
 import java.util.Date;
 
 /**
@@ -65,12 +62,7 @@ public class Test {
             //在第二次循环打印时，将打印数列中的第四个数为：b + c = b + (a + b)
             System.out.print(c + "\t");
         }
-
     }
-
-
-
-
 
     private static void testString(String ...strings){
         for(int i=0;i<strings.length;i++){

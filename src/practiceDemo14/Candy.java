@@ -5,4 +5,7 @@ public class Candy {
         System.out.println("Loading Candy");
 
     }
+    public Candy(){
+        System.out.println("我是构造器");
+    }
 }

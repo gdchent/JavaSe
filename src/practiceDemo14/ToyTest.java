@@ -22,7 +22,7 @@ public class ToyTest {
         try {
             //第一步通过 class的forName方法通过类包名+类名来获取class对象
             c = Class.forName("practiceDemo14.FancyToy");//注意参数是包名+类名
-            c=Class.forName("practiceDemo14.FancyToy",false,ClassLoader.getSystemClassLoader());
+            //c=Class.forName("practiceDemo14.FancyToy",false,ClassLoader.getSystemClassLoader());
         } catch (ClassNotFoundException e) {
             //如果找不到这个类 就抛出异常
             System.out.println("can not find FancyToy这个类"+e.getMessage());
@@ -59,5 +59,7 @@ public class ToyTest {
         String classLoaderString=System.getProperty("sun.boot.class.path");
         System.out.println("====================="+classLoaderString);
        // ClassLoader
+        Class cb=boolean.class ;
+        Class ct=Boolean.TYPE ;
     }
 }
