@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eef7303b-dbfd-4a6d-8555-78d92417dac4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extendsDemo/js/BasePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsDemo/js/BasePersonTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsDemo/js/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsDemo/js/JiShengExtends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsDemo/js/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsDemo/js/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extendsDemo/js/TestJiShengExtends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/reame.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql/code/MySql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql/code/Oracle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql/code/SqlServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql/code/TestMySql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql/curd/MySqlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql/curd/mysql-connector-java-8.0.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaSe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaSe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/ToyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/ToyTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,25 +31,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/JiShengExtends.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/BasePersonTag.java">
+        <entry file="file://$PROJECT_DIR$/src/mysql/code/MySql.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
@@ -51,37 +40,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/TestJiShengExtends.java">
+        <entry file="file://$PROJECT_DIR$/src/mysql/code/Oracle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+            <state relative-caret-position="54">
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/Teacher.java">
+        <entry file="file://$PROJECT_DIR$/src/mysql/code/TestMySql.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="398">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/Factory.java">
+        <entry file="file://$PROJECT_DIR$/src/mysql/curd/MySqlTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="297">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/BasePerson.java">
+        <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/sql/Connection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="199">
+              <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/mysql/curd/mysql-connector-java-8.0.17.jar!/com/mysql/cj/jdbc/Driver.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -99,9 +103,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>head</find>
-      <find>add(</find>
-      <find>=</find>
       <find>pop</find>
       <find>has</find>
       <find>newInstance</find>
@@ -129,6 +130,9 @@
       <find>getSys</find>
       <find>U</find>
       <find>ExtensionClassLoader</find>
+      <find>getConnection</find>
+      <find>jdbc.driverClassName</find>
+      <find>prepare</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -140,20 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/practiceDemo15/ExplicitypeSpecification.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/Generators.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/LinkedStack.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/Coffee.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/Latte.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/Mocha.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/CofferGenerator.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/GenericMethod.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/BasicGenerator.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/TwoTuple.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/ThreeTuple.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/Generator.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/CoffeeIterator.java" />
-        <option value="$PROJECT_DIR$/src/practiceDemo15/Americano.java" />
         <option value="$PROJECT_DIR$/src/practiceDemo15/Cappuccino.java" />
         <option value="$PROJECT_DIR$/src/practiceDemo15/CoffeeGenerator.java" />
         <option value="$PROJECT_DIR$/src/practiceDemo14/Cookie.java" />
@@ -184,19 +174,33 @@
         <option value="$PROJECT_DIR$/src/practiceDemo14/SweetShop.java" />
         <option value="$PROJECT_DIR$/src/practiceDemo14/ToyTest.java" />
         <option value="$PROJECT_DIR$/src/extendsDemo/js/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/extendsDemo/js/BasePerson.java" />
         <option value="$PROJECT_DIR$/src/extendsDemo/js/BasePersonTag.java" />
         <option value="$PROJECT_DIR$/src/extendsDemo/Student.java" />
         <option value="$PROJECT_DIR$/src/extendsDemo/js/Student.java" />
         <option value="$PROJECT_DIR$/src/extendsDemo/js/JiShengExtends.java" />
-        <option value="$PROJECT_DIR$/src/extendsDemo/js/TestJiShengExtends.java" />
         <option value="$PROJECT_DIR$/src/extendsDemo/js/Factory.java" />
+        <option value="$PROJECT_DIR$/src/extendsDemo/js/BasePerson.java" />
+        <option value="$PROJECT_DIR$/src/extendsDemo/js/TestJiShengExtends.java" />
+        <option value="$PROJECT_DIR$/src/extendsDemo/jsjisheng/SubType.java" />
+        <option value="$PROJECT_DIR$/src/extendsDemo/jsjisheng/SuperType.java" />
+        <option value="$PROJECT_DIR$/src/extendsDemo/jsjisheng/F.java" />
+        <option value="$PROJECT_DIR$/src/extendsDemo/jsjisheng/Factory.java" />
+        <option value="$PROJECT_DIR$/src/extendsDemo/jsjisheng/TestJsJiSheng.java" />
+        <option value="$PROJECT_DIR$/src/annotation/reame.md" />
+        <option value="$PROJECT_DIR$/src/annotation/Pro.java" />
+        <option value="$PROJECT_DIR$/src/annotation/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/src/annotation/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/mysql/readme.md" />
+        <option value="$PROJECT_DIR$/src/mysql/code/MySql.java" />
+        <option value="$PROJECT_DIR$/src/mysql/code/Oracle.java" />
+        <option value="$PROJECT_DIR$/src/mysql/code/TestMySql.java" />
+        <option value="$PROJECT_DIR$/src/mysql/curd/MySqlTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1952" />
-    <option name="y" value="66" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-108" />
+    <option name="y" value="31" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -206,7 +210,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,14 +226,21 @@
               <item name="JavaSe" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="extendsDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaSe" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="extendsDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="curd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaSe" type="b2602c69:ProjectViewProjectNode" />
@@ -240,19 +250,25 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566801194294" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568631255766" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\JavaSe\src\mysql\curd" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,13 +282,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ToyTest">
-    <configuration name="CoffeeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceDemo15.CoffeeGenerator" />
+  <component name="RunManager" selected="Application.MySqlTest">
+    <configuration name="FilledList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceDemo14.FilledList" />
       <module name="javaSe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceDemo15.*" />
+          <option name="PATTERN" value="practiceDemo14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +296,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilledList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceDemo14.FilledList" />
+    <configuration name="MySqlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mysql.curd.MySqlTest" />
       <module name="javaSe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceDemo14.*" />
+          <option name="PATTERN" value="mysql.curd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.ReflectTest" />
+      <module name="javaSe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,19 +348,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceDemo14.Test" />
-      <module name="javaSe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceDemo14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceDemo14.ToyTest" />
       <module name="javaSe" />
@@ -347,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MySqlTest" />
+        <item itemvalue="Application.ReflectTest" />
         <item itemvalue="Application.ToyTest" />
         <item itemvalue="Application.SweetShop" />
         <item itemvalue="Application.FilledList" />
-        <item itemvalue="Application.CoffeeGenerator" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -401,12 +417,16 @@
       <workItem from="1551406789280" duration="9179000" />
       <workItem from="1551752699879" duration="4370000" />
       <workItem from="1564999537578" duration="3444000" />
-      <workItem from="1566799682048" duration="1495000" />
+      <workItem from="1566799682048" duration="3288000" />
+      <workItem from="1568096935670" duration="4837000" />
+      <workItem from="1568184691525" duration="678000" />
+      <workItem from="1568278055251" duration="823000" />
+      <workItem from="1568600949076" duration="20038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277071000" />
+    <option name="totallyTimeSpent" value="305240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -418,10 +438,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1952" y="66" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.93152636" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.93152636" visible="true" weight="0.20948827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -430,15 +450,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3488624" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.2817372" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.38937092" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.30178174" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.43318486" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.2733189" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.3362256" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.17686318" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.1948775" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50319827" side_tool="true" weight="0.21800433" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.35746104" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -468,187 +488,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/lang/reflect/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/CountedInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/FilledList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6750">
-          <caret line="273" column="69" selection-start-line="273" selection-start-column="69" selection-end-line="273" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="98" column="11" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
-          <folding>
-            <element signature="e#3397#3398#0" expanded="true" />
-            <element signature="e#3460#3461#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Fibonacci.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <folding>
-            <element signature="e#0#630#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/security/SecureClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="168" column="24" selection-start-line="168" selection-start-column="24" selection-end-line="168" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/RealObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="89" column="6" lean-forward="true" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/Interface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/SimplyDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/jre/lib/rt.jar!/sun/reflect/Reflection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/SimpleProxyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/DynamicProxyHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="815">
-          <caret line="700" column="7" selection-start-line="700" selection-start-column="7" selection-end-line="700" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/SimpleProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceDemo14/InterfaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/practiceDemo14/CustomClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -783,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/BasePerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -822,13 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/TestJiShengExtends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/JiShengExtends.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -839,7 +664,171 @@
     <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/Factory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/BasePerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extendsDemo/js/TestJiShengExtends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extendsDemo/jsjisheng/F.java" />
+    <entry file="file://$PROJECT_DIR$/src/extendsDemo/jsjisheng/Factory.java" />
+    <entry file="file://$PROJECT_DIR$/src/extendsDemo/jsjisheng/SuperType.java" />
+    <entry file="file://$PROJECT_DIR$/src/extendsDemo/jsjisheng/SubType.java" />
+    <entry file="file://$PROJECT_DIR$/src/extendsDemo/jsjisheng/TestJsJiSheng.java" />
+    <entry file="file://$PROJECT_DIR$/src/annotation/reame.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/Pro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/lang/annotation/Retention.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extendsDemo/Goose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practiceDemo1/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practiceDemo1/StaticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="631" column="30" selection-start-line="631" selection-start-column="30" selection-end-line="631" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/mysql/curd/mysql-connector-java-8.0.17.jar!/com/mysql/jdbc/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysql/code/SqlServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysql/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysql/code/MySql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysql/code/Oracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/mysql/curd/mysql-connector-java-8.0.17.jar!/com/mysql/cj/jdbc/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysql/code/TestMySql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../android/jdk/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mysql/curd/MySqlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
