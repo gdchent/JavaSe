@@ -60,4 +60,18 @@ SpaceShipDeletgaion{
    }  
 }
 
+### Java中的注解
+注解就是用来对程序进行解释的，是给计算机看的.
+
+##### 自定义注解：
+
+```java
+//自己定义一个注解
+public @interface AnnoTest{
+    
+}
+```
+可以将这个注解先进行编译成class文件,然后反编译javap xxx.class文件
+发现其实所有的注解度是接口继承Annotation接口
+
 
