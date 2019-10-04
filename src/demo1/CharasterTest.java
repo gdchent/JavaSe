@@ -7,12 +7,13 @@ public class CharasterTest {
 
         //定义字符
         char a='C';
-
         int res=a;
         System.out.println(res);
         //进行自动装箱
-        Character characterＡ=a;
+        Character ch=a;
+        System.out.println(ch);
         //判断这个字符是不是大写
-        System.out.println(Character.isUpperCase(characterＡ));
+        System.out.println(Character.isUpperCase(ch));
+        System.out.println(Character.isLowerCase(ch));
     }
 }

@@ -8,7 +8,6 @@ package demoinject;
  */
 public class AnnoationClassTest {
 
-
     public void show(){
         System.out.println("我是show方法");
     }
