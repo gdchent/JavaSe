@@ -1,12 +1,11 @@
 package rxjava;
 
 
-import com.sun.istack.internal.Nullable;
 
 public final class RxJavaPlugins {
 
-    @SuppressWarnings("rawtypes")
-    @Nullable
+
+
     static volatile Function<? super Observable, ? extends Observable> onObservableAssembly;
 
     public static <T> Observable<T> onAssembly(Observable<T> source) {

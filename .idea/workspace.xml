@@ -2,33 +2,191 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eef7303b-dbfd-4a6d-8555-78d92417dac4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/annotation/AnnotationElementInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/Column.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/DbTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/ElementTypeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/PrimaryKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparabletest/TestFinalize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demo1/CharasterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demo1/LeetCode02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demo1/RandomTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demo1/StackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demo1/TestAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demo11/TestAppleOrangleList$Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demo11/TestAppleOrangleList$Orangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demo11/TestAppleOrangleList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demoannotation/AnnoTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demoannotation/AnnoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demoinject/AnnoationClassTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/demoinject/CustomAnnoation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/doc/AnTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/reflect/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaSe/reflect/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo1/CharasterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo1/LeetCode02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo1/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo1/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo1/TestAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo11/TestAppleOrangleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoannotation/AnnoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoinject/AnnoationClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demoinject/CustomAnnoation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc/AnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflect/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflect/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaSe/KotlineDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaSe/META-INF/javaSe.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/annotation/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/annotation/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/annotation/Pro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/annotation/Pro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/annotation/ReflectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/annotation/ReflectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/comparabletest/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/comparabletest/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/comparabletest/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/comparabletest/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/comparabletest/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/comparabletest/C.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaSe/comparabletest/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/comparabletest/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Goose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Goose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Penguin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Penguin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/BasePerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/BasePerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/BasePersonTag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/BasePersonTag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/JiShengExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/JiShengExtends.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/TestJiShengExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/extendsDemo/js/TestJiShengExtends.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/mysql/code/MySql.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/mysql/code/MySql.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/mysql/code/Oracle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/mysql/code/Oracle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/mysql/code/SqlServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/mysql/code/SqlServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/mysql/code/TestMySql.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/mysql/code/TestMySql.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/javaSe/mysql/curd/MySqlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/mysql/curd/MySqlTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo1/Practice01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo1/Practice01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo1/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo1/StaticTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo1/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo1/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo13/InfiniteRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo13/InfiniteRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Candy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Candy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Cookie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Cookie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/CountedInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/CountedInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/CustomClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/CustomClassLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/DynamicProxyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/DynamicProxyHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/FancyToy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/FancyToy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/FilledList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/FilledList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Gum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Gum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/HasBatteries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/HasBatteries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Initable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Initable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Interface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/InterfaceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/InterfaceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/MyClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/MyClassLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/RealObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/RealObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Shoots.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Shoots.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/SimpleProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/SimpleProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/SimpleProxyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/SimpleProxyDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/SimplyDynamicProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/SimplyDynamicProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/SweetShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/SweetShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Toy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Toy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/ToyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/ToyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Waterproof.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo14/Waterproof.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Americano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Americano.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Automobile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Automobile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/BasicGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/BasicGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Cappuccino.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Cappuccino.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/CoffeeGenerator$CoffeeIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/CoffeeGenerator$CoffeeIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/CoffeeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/CoffeeGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/ExplicitypeSpecification.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/ExplicitypeSpecification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/FourTuple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/FourTuple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Generators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Generators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/GenericMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/GenericMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/GenericVarargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/GenericVarargs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Holder1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Holder1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Holder2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Holder2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Holder3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Holder3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Latte.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Latte.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/LimitsOfInference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/LimitsOfInference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/LinkedStack$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/LinkedStack$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/LinkedStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/LinkedStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Mocha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Mocha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/New.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/New.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/ThreeTuple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/ThreeTuple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/TupleList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/TupleList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/TwoTuple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo15/TwoTuple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo2/Assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo2/Assignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo2/Tank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo2/Tank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Bart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Bart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Cleaser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Cleaser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Custom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Custom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Detergent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Detergent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/DinnerPlate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/DinnerPlate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Fork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Fork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Hide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Hide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Homer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Homer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Knife.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Knife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Lisa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Lisa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Milhouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Milhouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/PlaceSetting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/PlaceSetting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Plate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Plate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/SpaceShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/SpaceShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/SpaceShipControls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/SpaceShipControls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/SpaceShipDelegation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/SpaceShipDelegation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/SpaceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/SpaceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Spoon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Spoon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Utensil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceDemo7/Utensil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceMap/GetItemMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceMap/GetItemMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/practiceString/SubStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/practiceString/SubStringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Bath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Bath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Bowl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Bowl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Cupboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Cupboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Disposable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Disposable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Emitter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Emitter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Function.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Function.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/MyChent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/MyChent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/MyString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/MyString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Observable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Observable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/ObservableCreate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/ObservableCreate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/ObservableEmitter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/ObservableEmitter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/ObservableOnSubscribe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/ObservableOnSubscribe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/ObservableSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/ObservableSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/PassingThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/PassingThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Peeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Peeler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/RxJavaPlugins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/RxJavaPlugins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/RxJavaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/RxJavaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Soap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Soap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/SprinklerSysterm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/SprinklerSysterm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/StaticInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/StaticInitialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSe/rxjava/WaterSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSe/rxjava/WaterSource.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comparabletest/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparabletest/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/annotation/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotation/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysql/curd/MySqlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysql/curd/MySqlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceDemo14/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceDemo14/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rxjava/RxJavaPlugins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rxjava/RxJavaPlugins.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaSe" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -285,6 +443,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578623685259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578623685259" />
     <state width="1877" height="159" key="GridCell.Tab.0.bottom" timestamp="1577274840798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -301,10 +463,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="159" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577274840798" />
+    <state x="184" y="92" key="MergeDialog" timestamp="1578623719447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="92" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578623719447" />
+    <state x="669" y="237" key="MultipleFileMergeDialog" timestamp="1578623720338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="237" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578623720338" />
+    <state x="762" y="245" key="RollbackChangesDialog" timestamp="1578623680074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="245" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578623680074" />
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1578618004580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578618004580" />
+    <state x="580" y="109" width="759" height="822" key="find.popup" timestamp="1578623727139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="109" width="759" height="822" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578623727139" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577242385996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
