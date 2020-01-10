@@ -51,13 +51,15 @@ t1=t2; //这个时候2个变量也就是引用指向同一个堆内存地址 相
 2 继承 :extends关键字 
 3 代理:  
 写了一个SpaceShip类，然后再写一个SpaceShipConrols的子类，然后再写一个代理类  
-在代理类里面写一个方法
-SpaceShipDeletgaion{  
+在代理类里面写一个方法  
+```java
+public class SpaceShipDeletgaion{  
   private String name;  
   private SpaceShipControls controls=new SpaceShipControlls();   
   private SpaceShipDeletaion(String name){  
      this.name=name;  
    }  
 }
+```
 
 
